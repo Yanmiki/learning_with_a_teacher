@@ -14,6 +14,7 @@
 - KNeighborsClassifier  
 - SVC  
 - LogisticRegression
+- RandomForestClassifier (Оказалось самой лучшей)
 
 ## 📁 Состав проекта
 - `README.md` — описание проекта
